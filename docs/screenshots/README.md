@@ -12,3 +12,4 @@ Public IPs, private IPs, hostnames, account IDs and resource IDs are blurred.
 | 06 | [06-whm-trial-activation.png](06-whm-trial-activation.png) | WHM trial licence activation screen |
 | 07 | [07-whm-dashboard.png](07-whm-dashboard.png) | WHM dashboard with active trial licence (cPanel 138.0.19) |
 | 08 | [08-whm-package.png](08-whm-package.png) | `starter` hosting package resource limits |
+| 09 | [09-whm-accounts.png](09-whm-accounts.png) | Two isolated cPanel accounts (`demo`, `shop`) created on the `starter` package |
