@@ -13,3 +13,4 @@ Public IPs, private IPs, hostnames, account IDs and resource IDs are blurred.
 | 07 | [07-whm-dashboard.png](07-whm-dashboard.png) | WHM dashboard with active trial licence (cPanel 138.0.19) |
 | 08 | [08-whm-package.png](08-whm-package.png) | `starter` hosting package resource limits |
 | 09 | [09-whm-accounts.png](09-whm-accounts.png) | Two isolated cPanel accounts (`demo`, `shop`) created on the `starter` package |
+| 10 | [10-quota-fix.png](10-quota-fix.png) | Root filesystem mounted with `usrquota`; `/scripts/fixquotas` applying the 2048 MB `starter` quota to both accounts |
